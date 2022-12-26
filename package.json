@@ -1,0 +1,19 @@
+{
+  "name": "app.py",
+  "version": "3.10.0",
+  "description": "API using flask",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrutika1202/mood-based-music.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrutika1202/mood-based-music/issues"
+  },
+  "homepage": "https://github.com/shrutika1202/mood-based-music#readme"
+}
